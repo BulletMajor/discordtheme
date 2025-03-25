@@ -1,6 +1,6 @@
 @font-face {
   font-family: "gg sans";
-  src: local("gg sans") format("truetype"), url("") format("truetype");
+  src: local("gg sans") format("truetype"), url("https://github.com/BulletMajor/discordtheme/blob/main/ggsans.ttf") format("truetype");
 }
 :root {
   --font-primary: "GG Sans Text", "GG Sans", "Helvetica Neue", Helvetica, Verdana, Tahoma, Geneva, Arial, sans-serif;
